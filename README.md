@@ -1,4 +1,4 @@
-# nlp-02-text-preprocessing
+# nlp-02-text-preprocessing-blessing
 
 [![Python 3.14+](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](#)
 [![MIT](https://img.shields.io/badge/license-see%20LICENSE-yellow.svg)](./LICENSE)
@@ -94,8 +94,8 @@ open a machine terminal in your `Repos` folder:
 
 ```shell
 # Replace username with YOUR GitHub username.
-git clone https://github.com/username/nlp-02-text-preprocessing
-cd nlp-02-text-preprocessing
+git clone https://github.com/teflxndxn/nlp-02-text-preprocessing-blessing.git
+cd nlp-02-text-preprocessing-blessing
 code .
 ```
 
