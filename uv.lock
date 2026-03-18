@@ -729,6 +729,11 @@ docs = [
     { name = "zensical" },
 ]
 
+[package.dev-dependencies]
+dev = [
+    { name = "pre-commit" },
+]
+
 [package.metadata]
 requires-dist = [
     { name = "beautifulsoup4" },
@@ -747,6 +752,9 @@ requires-dist = [
     { name = "zensical", marker = "extra == 'docs'" },
 ]
 provides-extras = ["dev", "docs"]
+
+[package.metadata.requires-dev]
+dev = [{ name = "pre-commit", specifier = ">=4.5.1" }]
 
 [[package]]
 name = "nodeenv"
