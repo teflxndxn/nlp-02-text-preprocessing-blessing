@@ -143,3 +143,9 @@ git push -u origin main
 ## Example Artifact (Output)
 
 ![Word Cloud Example](docs/images/word_cloud_example.png)
+
+## Custom Modifications (Phase 4)
+
+- Created a custom notebook: `text_preprocessing_blessing.ipynb`
+- Updated the visualization in Section 11 by modifying the chart title to include my name
+- Updated the notebook header to reflect my authorship
